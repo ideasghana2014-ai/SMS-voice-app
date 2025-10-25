@@ -8,3 +8,6 @@ git remote add origin https://github.com/YOUR_USERNAME/sms-voice-app.git
 git push -u origin main
 
 web: node server.js
+git add .
+git commit -m "Add Render deployment config"
+git push
